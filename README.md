@@ -530,7 +530,7 @@ c)La corriente de cada suma d)El voltaje aplicado
 ![image](https://user-images.githubusercontent.com/116760257/203661082-8898d7bb-66bd-4727-a1bc-907cbfeff574.png)
 
 4.video
-
+https://www.youtube.com/watch?v=DM7k5txbAXA
 
 5.Conclusiones
 
